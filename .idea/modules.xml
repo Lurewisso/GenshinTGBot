@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/.idea/pythonProject1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/GenGuiBot.iml" filepath="$PROJECT_DIR$/.idea/GenGuiBot.iml" />
+>>>>>>> 08d34862e46f59a39ce39c4c2c92f8b2aa9cecdd
+    </modules>
+  </component>
+</project>
