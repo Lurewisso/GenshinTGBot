@@ -21,7 +21,7 @@ def get_pic(messages):
     mark.row(button2)
     button3 = types.InlineKeyboardButton('Изменить текст', callback_data='edit')
     mark.row(button3)
-    tgbot.reply_to(messages, 'Очень красиво! Паймон нравится!', reply_markup=mark)
+    tgbot.reply_to(messages, 'Очень красиво! Паймон очень нравится!', reply_markup=mark)
 
 
 @tgbot.callback_query_handler(func=lambda callback: True)
